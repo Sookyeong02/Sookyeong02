@@ -4,13 +4,9 @@
 Github Link
 [Fandom-k](https://github.com/FandomKteam5/main)
 
----
-
 ### Linkbrary
 Github Link
 [Linkbrary](https://github.com/codeit-fe11-part3-team4/linkbrary)
-
----
 
 ### Globalnomad
 Github Link
